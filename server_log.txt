@@ -1,0 +1,973 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:02:41] 
+[23:02:41] Server Plugins
+[23:02:41] --------------
+[23:02:41]  Loading plugin: SampSharp
+[23:02:41] [SampSharp:ERROR] Invalid coreclr directory specified in server.cfg.
+[23:02:41]   Failed.
+[23:02:41]  Loaded 0 plugins.
+
+[23:02:41] 
+[23:02:41] Filterscripts
+[23:02:41] ---------------
+[23:02:41]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:04:14] 
+[23:04:14] Server Plugins
+[23:04:14] --------------
+[23:04:14]  Loading plugin: SampSharp
+[23:04:14] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:04:14] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:04:14]   Loaded.
+[23:04:14]  Loaded 1 plugins.
+
+[23:04:14] 
+[23:04:14] Filterscripts
+[23:04:14] ---------------
+[23:04:14]   Loaded 0 filterscripts.
+
+[23:04:14]   Filterscript 'empty.amx' loaded.
+[23:04:14] 
+[23:04:14] SampSharp Plugin
+[23:04:14] ----------------
+[23:04:14] v0.10.0, (C)2014-2022 Tim Potze
+[23:04:14] 
+[23:04:14] [SampSharp:INFO] Initializing .NET runtime...
+[23:04:14] [SampSharp:INFO] Starting game mode host...
+[23:04:15] [SampSharp:INFO] Game mode host running.
+[23:04:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:06:00] 
+[23:06:00] Server Plugins
+[23:06:00] --------------
+[23:06:00]  Loading plugin: SampSharp
+[23:06:00] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:06:00] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:06:00]   Loaded.
+[23:06:00]  Loaded 1 plugins.
+
+[23:06:00] 
+[23:06:00] Filterscripts
+[23:06:00] ---------------
+[23:06:00]   Loaded 0 filterscripts.
+
+[23:06:00]   Filterscript 'empty.amx' loaded.
+[23:06:00] 
+[23:06:00] SampSharp Plugin
+[23:06:00] ----------------
+[23:06:00] v0.10.0, (C)2014-2022 Tim Potze
+[23:06:00] 
+[23:06:00] [SampSharp:INFO] Initializing .NET runtime...
+[23:06:00] [SampSharp:INFO] Starting game mode host...
+[23:06:00] [SampSharp:INFO] Game mode host running.
+[23:06:00] Number of vehicle models: 0
+[23:06:25] [connection] incoming connection: 127.0.0.1:52696 id: 0
+[23:06:25] [join] [TJF]DuDuH.GDE[GT] has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:08:05] 
+[23:08:05] Server Plugins
+[23:08:05] --------------
+[23:08:05]  Loading plugin: SampSharp
+[23:08:05] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:08:05] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:08:05]   Loaded.
+[23:08:05]  Loaded 1 plugins.
+
+[23:08:05] 
+[23:08:05] Filterscripts
+[23:08:05] ---------------
+[23:08:05]   Loaded 0 filterscripts.
+
+[23:08:05]   Filterscript 'empty.amx' loaded.
+[23:08:05] 
+[23:08:05] SampSharp Plugin
+[23:08:05] ----------------
+[23:08:05] v0.10.0, (C)2014-2022 Tim Potze
+[23:08:05] 
+[23:08:05] [SampSharp:INFO] Initializing .NET runtime...
+[23:08:05] [SampSharp:INFO] Starting game mode host...
+[23:08:05] [SampSharp:INFO] Game mode host running.
+[23:08:05] Number of vehicle models: 0
+[23:08:13] [connection] incoming connection: 127.0.0.1:59684 id: 0
+[23:08:14] [join] [TJF]DuDuH.GDE[GT] has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:09:41] 
+[23:09:41] Server Plugins
+[23:09:41] --------------
+[23:09:41]  Loading plugin: SampSharp
+[23:09:41] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:09:41] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:09:41]   Loaded.
+[23:09:41]  Loaded 1 plugins.
+
+[23:09:41] 
+[23:09:41] Filterscripts
+[23:09:41] ---------------
+[23:09:41]   Loaded 0 filterscripts.
+
+[23:09:41]   Filterscript 'empty.amx' loaded.
+[23:09:41] 
+[23:09:41] SampSharp Plugin
+[23:09:41] ----------------
+[23:09:41] v0.10.0, (C)2014-2022 Tim Potze
+[23:09:41] 
+[23:09:41] [SampSharp:INFO] Initializing .NET runtime...
+[23:09:41] [SampSharp:INFO] Starting game mode host...
+[23:09:41] [SampSharp:INFO] Game mode host running.
+[23:09:41] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:10:08] 
+[23:10:08] Server Plugins
+[23:10:08] --------------
+[23:10:08]  Loading plugin: SampSharp
+[23:10:08] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:10:08] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:10:08]   Loaded.
+[23:10:08]  Loaded 1 plugins.
+
+[23:10:08] 
+[23:10:08] Filterscripts
+[23:10:08] ---------------
+[23:10:08]   Loaded 0 filterscripts.
+
+[23:10:08]   Filterscript 'empty.amx' loaded.
+[23:10:08] 
+[23:10:08] SampSharp Plugin
+[23:10:08] ----------------
+[23:10:08] v0.10.0, (C)2014-2022 Tim Potze
+[23:10:08] 
+[23:10:08] [SampSharp:INFO] Initializing .NET runtime...
+[23:10:08] [SampSharp:INFO] Starting game mode host...
+[23:10:08] [SampSharp:INFO] Game mode host running.
+[23:10:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:10:13] 
+[23:10:13] Server Plugins
+[23:10:13] --------------
+[23:10:13]  Loading plugin: SampSharp
+[23:10:13] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:10:13] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:10:13]   Loaded.
+[23:10:13]  Loaded 1 plugins.
+
+[23:10:13] 
+[23:10:13] Filterscripts
+[23:10:13] ---------------
+[23:10:13]   Loaded 0 filterscripts.
+
+[23:10:13]   Filterscript 'empty.amx' loaded.
+[23:10:13] 
+[23:10:13] SampSharp Plugin
+[23:10:13] ----------------
+[23:10:13] v0.10.0, (C)2014-2022 Tim Potze
+[23:10:13] 
+[23:10:13] [SampSharp:INFO] Initializing .NET runtime...
+[23:10:13] [SampSharp:INFO] Starting game mode host...
+[23:10:13] [SampSharp:INFO] Game mode host running.
+[23:10:13] Number of vehicle models: 0
+[23:10:20] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:11:36] 
+[23:11:36] Server Plugins
+[23:11:36] --------------
+[23:11:36]  Loading plugin: SampSharp
+[23:11:36] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:11:36] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:11:36]   Loaded.
+[23:11:36]  Loaded 1 plugins.
+
+[23:11:36] 
+[23:11:36] Filterscripts
+[23:11:36] ---------------
+[23:11:36]   Loaded 0 filterscripts.
+
+[23:11:36]   Filterscript 'empty.amx' loaded.
+[23:11:36] 
+[23:11:36] SampSharp Plugin
+[23:11:36] ----------------
+[23:11:36] v0.10.0, (C)2014-2022 Tim Potze
+[23:11:36] 
+[23:11:36] [SampSharp:INFO] Initializing .NET runtime...
+[23:11:36] [SampSharp:INFO] Starting game mode host...
+[23:11:36] [SampSharp:INFO] Game mode host running.
+[23:11:36] Number of vehicle models: 0
+[23:11:49] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:12:12] 
+[23:12:12] Server Plugins
+[23:12:12] --------------
+[23:12:12]  Loading plugin: SampSharp
+[23:12:12] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:12:12] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:12:12]   Loaded.
+[23:12:12]  Loaded 1 plugins.
+
+[23:12:12] 
+[23:12:12] Filterscripts
+[23:12:12] ---------------
+[23:12:12]   Loaded 0 filterscripts.
+
+[23:12:12]   Filterscript 'empty.amx' loaded.
+[23:12:12] 
+[23:12:12] SampSharp Plugin
+[23:12:12] ----------------
+[23:12:12] v0.10.0, (C)2014-2022 Tim Potze
+[23:12:12] 
+[23:12:12] [SampSharp:INFO] Initializing .NET runtime...
+[23:12:12] [SampSharp:INFO] Starting game mode host...
+[23:12:13] [SampSharp:INFO] Game mode host running.
+[23:12:13] Number of vehicle models: 0
+[23:12:14] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:12:16] 
+[23:12:16] Server Plugins
+[23:12:16] --------------
+[23:12:16]  Loading plugin: SampSharp
+[23:12:16] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:12:16] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:12:16]   Loaded.
+[23:12:16]  Loaded 1 plugins.
+
+[23:12:16] 
+[23:12:16] Filterscripts
+[23:12:16] ---------------
+[23:12:16]   Loaded 0 filterscripts.
+
+[23:12:16]   Filterscript 'empty.amx' loaded.
+[23:12:16] 
+[23:12:16] SampSharp Plugin
+[23:12:16] ----------------
+[23:12:16] v0.10.0, (C)2014-2022 Tim Potze
+[23:12:16] 
+[23:12:16] [SampSharp:INFO] Initializing .NET runtime...
+[23:12:16] [SampSharp:INFO] Starting game mode host...
+[23:12:16] [SampSharp:INFO] Game mode host running.
+[23:12:16] Number of vehicle models: 0
+[23:12:27] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:12:28] 
+[23:12:28] Server Plugins
+[23:12:28] --------------
+[23:12:28]  Loading plugin: SampSharp
+[23:12:28] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:12:28] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:12:28]   Loaded.
+[23:12:28]  Loaded 1 plugins.
+
+[23:12:28] 
+[23:12:28] Filterscripts
+[23:12:28] ---------------
+[23:12:28]   Loaded 0 filterscripts.
+
+[23:12:28]   Filterscript 'empty.amx' loaded.
+[23:12:28] 
+[23:12:28] SampSharp Plugin
+[23:12:28] ----------------
+[23:12:28] v0.10.0, (C)2014-2022 Tim Potze
+[23:12:28] 
+[23:12:28] [SampSharp:INFO] Initializing .NET runtime...
+[23:12:28] [SampSharp:INFO] Starting game mode host...
+[23:12:28] [SampSharp:INFO] Game mode host running.
+[23:12:28] Number of vehicle models: 0
+[23:13:31] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:13:32] 
+[23:13:32] Server Plugins
+[23:13:32] --------------
+[23:13:32]  Loading plugin: SampSharp
+[23:13:32] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:13:32] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:13:32]   Loaded.
+[23:13:32]  Loaded 1 plugins.
+
+[23:13:32] 
+[23:13:32] Filterscripts
+[23:13:32] ---------------
+[23:13:32]   Loaded 0 filterscripts.
+
+[23:13:32]   Filterscript 'empty.amx' loaded.
+[23:13:32] 
+[23:13:32] SampSharp Plugin
+[23:13:32] ----------------
+[23:13:32] v0.10.0, (C)2014-2022 Tim Potze
+[23:13:32] 
+[23:13:32] [SampSharp:INFO] Initializing .NET runtime...
+[23:13:32] [SampSharp:INFO] Starting game mode host...
+[23:13:32] [SampSharp:INFO] Game mode host running.
+[23:13:32] Number of vehicle models: 0
+[23:13:34] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:13:34] 
+[23:13:34] Server Plugins
+[23:13:34] --------------
+[23:13:34]  Loading plugin: SampSharp
+[23:13:34] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:13:34] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:13:34]   Loaded.
+[23:13:34]  Loaded 1 plugins.
+
+[23:13:34] 
+[23:13:34] Filterscripts
+[23:13:34] ---------------
+[23:13:34]   Loaded 0 filterscripts.
+
+[23:13:34]   Filterscript 'empty.amx' loaded.
+[23:13:34] 
+[23:13:34] SampSharp Plugin
+[23:13:34] ----------------
+[23:13:34] v0.10.0, (C)2014-2022 Tim Potze
+[23:13:34] 
+[23:13:34] [SampSharp:INFO] Initializing .NET runtime...
+[23:13:34] [SampSharp:INFO] Starting game mode host...
+[23:13:35] [SampSharp:INFO] Game mode host running.
+[23:13:35] Number of vehicle models: 0
+[23:13:39] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:13:41] 
+[23:13:41] Server Plugins
+[23:13:41] --------------
+[23:13:41]  Loading plugin: SampSharp
+[23:13:41] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:13:41] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:13:41]   Loaded.
+[23:13:41]  Loaded 1 plugins.
+
+[23:13:41] 
+[23:13:41] Filterscripts
+[23:13:41] ---------------
+[23:13:41]   Loaded 0 filterscripts.
+
+[23:13:41]   Filterscript 'empty.amx' loaded.
+[23:13:41] 
+[23:13:41] SampSharp Plugin
+[23:13:41] ----------------
+[23:13:41] v0.10.0, (C)2014-2022 Tim Potze
+[23:13:41] 
+[23:13:41] [SampSharp:INFO] Initializing .NET runtime...
+[23:13:41] [SampSharp:INFO] Starting game mode host...
+[23:13:42] [SampSharp:INFO] Game mode host running.
+[23:13:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:13:53] 
+[23:13:53] Server Plugins
+[23:13:53] --------------
+[23:13:53]  Loading plugin: SampSharp
+[23:13:53] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:13:53] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:13:53]   Loaded.
+[23:13:53]  Loaded 1 plugins.
+
+[23:13:53] 
+[23:13:53] Filterscripts
+[23:13:53] ---------------
+[23:13:53]   Loaded 0 filterscripts.
+
+[23:13:53]   Filterscript 'empty.amx' loaded.
+[23:13:53] 
+[23:13:53] SampSharp Plugin
+[23:13:53] ----------------
+[23:13:53] v0.10.0, (C)2014-2022 Tim Potze
+[23:13:53] 
+[23:13:53] [SampSharp:INFO] Initializing .NET runtime...
+[23:13:53] [SampSharp:INFO] Starting game mode host...
+[23:13:53] [SampSharp:INFO] Game mode host running.
+[23:13:53] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:14:19] 
+[23:14:19] Server Plugins
+[23:14:19] --------------
+[23:14:19]  Loading plugin: SampSharp
+[23:14:19] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:14:19] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:14:19]   Loaded.
+[23:14:19]  Loaded 1 plugins.
+
+[23:14:19] 
+[23:14:19] Filterscripts
+[23:14:19] ---------------
+[23:14:19]   Loaded 0 filterscripts.
+
+[23:14:19]   Filterscript 'empty.amx' loaded.
+[23:14:19] 
+[23:14:19] SampSharp Plugin
+[23:14:19] ----------------
+[23:14:19] v0.10.0, (C)2014-2022 Tim Potze
+[23:14:19] 
+[23:14:19] [SampSharp:INFO] Initializing .NET runtime...
+[23:14:19] [SampSharp:INFO] Starting game mode host...
+[23:14:19] [SampSharp:INFO] Game mode host running.
+[23:14:19] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:15:55] 
+[23:15:55] Server Plugins
+[23:15:55] --------------
+[23:15:55]  Loading plugin: SampSharp
+[23:15:55] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:15:55] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:15:55]   Loaded.
+[23:15:55]  Loaded 1 plugins.
+
+[23:15:55] 
+[23:15:55] Filterscripts
+[23:15:55] ---------------
+[23:15:55]   Loaded 0 filterscripts.
+
+[23:15:55]   Filterscript 'empty.amx' loaded.
+[23:15:55] 
+[23:15:55] SampSharp Plugin
+[23:15:55] ----------------
+[23:15:55] v0.10.0, (C)2014-2022 Tim Potze
+[23:15:55] 
+[23:15:55] [SampSharp:INFO] Initializing .NET runtime...
+[23:15:55] [SampSharp:INFO] Starting game mode host...
+[23:15:56] [SampSharp:INFO] Game mode host running.
+[23:15:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:19:19] 
+[23:19:19] Server Plugins
+[23:19:19] --------------
+[23:19:19]  Loading plugin: SampSharp
+[23:19:19] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[23:19:19] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[23:19:19]   Loaded.
+[23:19:19]  Loaded 1 plugins.
+
+[23:19:19] 
+[23:19:19] Filterscripts
+[23:19:19] ---------------
+[23:19:19]   Loaded 0 filterscripts.
+
+[23:19:19]   Filterscript 'empty.amx' loaded.
+[23:19:19] 
+[23:19:19] SampSharp Plugin
+[23:19:19] ----------------
+[23:19:19] v0.10.0, (C)2014-2022 Tim Potze
+[23:19:19] 
+[23:19:19] [SampSharp:INFO] Initializing .NET runtime...
+[23:19:19] [SampSharp:INFO] Starting game mode host...
+[23:19:19] [SampSharp:INFO] Game mode host running.
+[23:19:19] Number of vehicle models: 0
+[23:19:38] [connection] incoming connection: 127.0.0.1:51186 id: 0
+[23:19:39] [join] [TJF]DuDuH.GDE[GT] has joined the server (0:127.0.0.1)
+[23:20:12] [part] [TJF]DuDuH.GDE[GT] has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:11:07] 
+[00:11:07] Server Plugins
+[00:11:07] --------------
+[00:11:07]  Loading plugin: SampSharp
+[00:11:07] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\runtime\shared\Microsoft.NETCore.App\6.0.22
+[00:11:07] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Downloads\samp037_svr_R2-2-1_win32\gamemode\Debug\netcoreapp3.1\MyFirstGameMode.dll
+[00:11:07]   Loaded.
+[00:11:07]  Loaded 1 plugins.
+
+[00:11:07] 
+[00:11:07] Filterscripts
+[00:11:07] ---------------
+[00:11:07]   Loaded 0 filterscripts.
+
+[00:11:07]   Filterscript 'empty.amx' loaded.
+[00:11:07] 
+[00:11:07] SampSharp Plugin
+[00:11:07] ----------------
+[00:11:07] v0.10.0, (C)2014-2022 Tim Potze
+[00:11:07] 
+[00:11:07] [SampSharp:INFO] Initializing .NET runtime...
+[00:11:07] [SampSharp:INFO] Starting game mode host...
+[00:11:08] [SampSharp:INFO] Game mode host running.
+[00:11:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:11:41] 
+[00:11:41] Server Plugins
+[00:11:41] --------------
+[00:11:41]  Loading plugin: SampSharp
+[00:11:41] [SampSharp:ERROR] Can not load sampsharp if a non-SampSharp gamemode is set to load.
+[00:11:41] [SampSharp:ERROR] Please ensure you set 'gamemode0 empty 1' in your server.cfg file.
+[00:11:41]   Failed.
+[00:11:41]  Loaded 0 plugins.
+
+[00:11:41] 
+[00:11:41] Filterscripts
+[00:11:41] ---------------
+[00:11:41]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:11:43] 
+[00:11:43] Server Plugins
+[00:11:43] --------------
+[00:11:43]  Loading plugin: SampSharp
+[00:11:43] [SampSharp:ERROR] Can not load sampsharp if a non-SampSharp gamemode is set to load.
+[00:11:43] [SampSharp:ERROR] Please ensure you set 'gamemode0 empty 1' in your server.cfg file.
+[00:11:43]   Failed.
+[00:11:43]  Loaded 0 plugins.
+
+[00:11:43] 
+[00:11:43] Filterscripts
+[00:11:43] ---------------
+[00:11:43]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:11:43] 
+[00:11:43] Server Plugins
+[00:11:43] --------------
+[00:11:43]  Loading plugin: SampSharp
+[00:11:43] [SampSharp:ERROR] Can not load sampsharp if a non-SampSharp gamemode is set to load.
+[00:11:43] [SampSharp:ERROR] Please ensure you set 'gamemode0 empty 1' in your server.cfg file.
+[00:11:43]   Failed.
+[00:11:43]  Loaded 0 plugins.
+
+[00:11:43] 
+[00:11:43] Filterscripts
+[00:11:43] ---------------
+[00:11:43]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:11:43] 
+[00:11:43] Server Plugins
+[00:11:43] --------------
+[00:11:43]  Loading plugin: SampSharp
+[00:11:43] [SampSharp:ERROR] Can not load sampsharp if a non-SampSharp gamemode is set to load.
+[00:11:43] [SampSharp:ERROR] Please ensure you set 'gamemode0 empty 1' in your server.cfg file.
+[00:11:43]   Failed.
+[00:11:43]  Loaded 0 plugins.
+
+[00:11:43] 
+[00:11:43] Filterscripts
+[00:11:43] ---------------
+[00:11:43]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:11:44] 
+[00:11:44] Server Plugins
+[00:11:44] --------------
+[00:11:44]  Loading plugin: SampSharp
+[00:11:44] [SampSharp:ERROR] Can not load sampsharp if a non-SampSharp gamemode is set to load.
+[00:11:44] [SampSharp:ERROR] Please ensure you set 'gamemode0 empty 1' in your server.cfg file.
+[00:11:44]   Failed.
+[00:11:44]  Loaded 0 plugins.
+
+[00:11:44] 
+[00:11:44] Filterscripts
+[00:11:44] ---------------
+[00:11:44]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:11:44] 
+[00:11:44] Server Plugins
+[00:11:44] --------------
+[00:11:44]  Loading plugin: SampSharp
+[00:11:44] [SampSharp:ERROR] Can not load sampsharp if a non-SampSharp gamemode is set to load.
+[00:11:44] [SampSharp:ERROR] Please ensure you set 'gamemode0 empty 1' in your server.cfg file.
+[00:11:44]   Failed.
+[00:11:44]  Loaded 0 plugins.
+
+[00:11:44] 
+[00:11:44] Filterscripts
+[00:11:44] ---------------
+[00:11:44]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:11:45] 
+[00:11:45] Server Plugins
+[00:11:45] --------------
+[00:11:45]  Loading plugin: SampSharp
+[00:11:45] [SampSharp:ERROR] Can not load sampsharp if a non-SampSharp gamemode is set to load.
+[00:11:45] [SampSharp:ERROR] Please ensure you set 'gamemode0 empty 1' in your server.cfg file.
+[00:11:45]   Failed.
+[00:11:45]  Loaded 0 plugins.
+
+[00:11:45] 
+[00:11:45] Filterscripts
+[00:11:45] ---------------
+[00:11:45]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:11:47] 
+[00:11:47] Server Plugins
+[00:11:47] --------------
+[00:11:47]  Loading plugin: SampSharp
+[00:11:47] [SampSharp:ERROR] Can not load sampsharp if a non-SampSharp gamemode is set to load.
+[00:11:47] [SampSharp:ERROR] Please ensure you set 'gamemode0 empty 1' in your server.cfg file.
+[00:11:47]   Failed.
+[00:11:47]  Loaded 0 plugins.
+
+[00:11:47] 
+[00:11:47] Filterscripts
+[00:11:47] ---------------
+[00:11:47]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:12:20] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:12:46] 
+[19:12:46] Server Plugins
+[19:12:46] --------------
+[19:12:46]  Loading plugin: SampSharp.dll
+[19:12:46] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Projects\pessoal\backend\pocs_arch_sampsharp\env\runtime\shared\Microsoft.NETCore.App\6.0.22
+[19:12:46] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Projects\pessoal\backend\pocs_arch_sampsharp\env\gamemode\net6.0\Torcidas.UI.dll
+[19:12:46]   Loaded.
+[19:12:46]  Loaded 1 plugins.
+
+[19:12:46] 
+[19:12:46] Filterscripts
+[19:12:46] ---------------
+[19:12:46]   Loading filterscript 'empty.amx'...
+[19:12:46]   Loaded 1 filterscripts.
+
+[19:12:46] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:12:46]   Filterscript 'empty.amx' load failed.
+[19:12:46] 
+[19:12:46] SampSharp Plugin
+[19:12:46] ----------------
+[19:12:46] v0.10.0, (C)2014-2022 Tim Potze
+[19:12:46] 
+[19:12:46] [SampSharp:INFO] Initializing .NET runtime...
+[19:12:47] [SampSharp:INFO] Starting game mode host...
+[19:12:50] SampSharp GameMode Client
+[19:12:50] -------------------------
+[19:12:50] v0.10.0, (C)2014-2020 Tim Potze
+[19:12:50] Hosted run mode is active.
+[19:12:50] 
+[19:13:26] SampSharp GameMode Client
+[19:13:26] -------------------------
+[19:13:26] v0.10.0, (C)2014-2020 Tim Potze
+[19:13:26] Hosted run mode is active.
+[19:13:26] 
+[19:13:26] [SampSharp:INFO] Game mode host running.
+[19:13:26] 
+----------------------------------
+[19:13:26]   Bare Script
+
+[19:13:26] ----------------------------------
+
+[19:13:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:13:34] 
+[19:13:34] Server Plugins
+[19:13:34] --------------
+[19:13:34]  Loading plugin: SampSharp.dll
+[19:13:34] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Projects\pessoal\backend\pocs_arch_sampsharp\env\runtime\shared\Microsoft.NETCore.App\6.0.22
+[19:13:34] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Projects\pessoal\backend\pocs_arch_sampsharp\env\gamemode\net6.0\Torcidas.UI.dll
+[19:13:34]   Loaded.
+[19:13:34]  Loaded 1 plugins.
+
+[19:13:34] 
+[19:13:34] Filterscripts
+[19:13:34] ---------------
+[19:13:34]   Loading filterscript 'empty.amx'...
+[19:13:34]   Loaded 1 filterscripts.
+
+[19:13:34] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:13:34]   Filterscript 'empty.amx' load failed.
+[19:13:34] 
+[19:13:34] SampSharp Plugin
+[19:13:34] ----------------
+[19:13:34] v0.10.0, (C)2014-2022 Tim Potze
+[19:13:34] 
+[19:13:34] [SampSharp:INFO] Initializing .NET runtime...
+[19:13:34] [SampSharp:INFO] Starting game mode host...
+[19:13:35] SampSharp GameMode Client
+[19:13:35] -------------------------
+[19:13:35] v0.10.0, (C)2014-2020 Tim Potze
+[19:13:35] Hosted run mode is active.
+[19:13:35] 
+[19:13:38] [SampSharp:INFO] Game mode host running.
+[19:13:38] 
+----------------------------------
+[19:13:38]   Bare Script
+
+[19:13:38] ----------------------------------
+
+[19:13:38] Number of vehicle models: 0
+[19:13:43] [connection] incoming connection: 127.0.0.1:61267 id: 0
+[19:13:53] [connection] incoming connection: 127.0.0.1:55722 id: 0
+[19:14:04] [connection] incoming connection: 127.0.0.1:55723 id: 0
+[19:14:04] [join] [TJF]DuDuH.GDE[GT] has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:14:52] 
+[19:14:52] Server Plugins
+[19:14:52] --------------
+[19:14:52]  Loading plugin: SampSharp.dll
+[19:14:52] [SampSharp:INFO] Runtime path: C:\Users\Duduzera\Projects\pessoal\backend\pocs_arch_sampsharp\env\runtime\shared\Microsoft.NETCore.App\6.0.22
+[19:14:52] [SampSharp:INFO] Game mode path: C:\Users\Duduzera\Projects\pessoal\backend\pocs_arch_sampsharp\env\gamemode\net6.0\Torcidas.UI.dll
+[19:14:52]   Loaded.
+[19:14:52]  Loaded 1 plugins.
+
+[19:14:53] 
+[19:14:53] Filterscripts
+[19:14:53] ---------------
+[19:14:53]   Loading filterscript 'empty.amx'...
+[19:14:53]   Loaded 1 filterscripts.
+
+[19:14:53] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:14:53]   Filterscript 'empty.amx' load failed.
+[19:14:53] 
+[19:14:53] SampSharp Plugin
+[19:14:53] ----------------
+[19:14:53] v0.10.0, (C)2014-2022 Tim Potze
+[19:14:53] 
+[19:14:53] [SampSharp:INFO] Initializing .NET runtime...
+[19:14:53] [SampSharp:INFO] Starting game mode host...
+[19:14:53] SampSharp GameMode Client
+[19:14:53] -------------------------
+[19:14:53] v0.10.0, (C)2014-2020 Tim Potze
+[19:14:53] Hosted run mode is active.
+[19:14:53] 
+[19:14:57] [SampSharp:INFO] Game mode host running.
+[19:14:57] 
+----------------------------------
+[19:14:57]   Bare Script
+
+[19:14:57] ----------------------------------
+
+[19:14:57] Number of vehicle models: 0
+[19:15:11] [connection] incoming connection: 127.0.0.1:61845 id: 0
+[19:15:11] [join] [TJF]DuDuH.GDE[GT] has joined the server (0:127.0.0.1)
